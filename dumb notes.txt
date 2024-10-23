@@ -1,0 +1,59 @@
+basic commands; 
+pwd
+mkdir
+cd
+touch
+rm
+cp
+mv
+----------------------------------------------------------------------------------------------------------------------
+pwd- print working directory ; shows  the current working directory.
+
+mkdir	- make directory ; makes a directory.
+
+cd- change directory
+
+touch - to change timestamps or access files or directories (time stamp is a record of time of a particular event)
+
+rm - remove a file
+
+cp- copy files
+
+mv - move (move the files and directories or rename them)
+
+--------------------------------------------------------------------------------------------------------------------------
+netstat - display network connections (view ip address)
+
+cat - contents of file
+
+ping - test network
+
+traceroute - trace path packet network (traces the route thats taken by the packets to a destination)
+
+ifconfig- view ip addresses
+
+sudo apt-get upgrade (installs, updates, removes systems)
+
+nmap - network mapping tool or to scan open ports
+
+chmod - change file permissions w numeric code
+
+sudo apt-get update - update the package list
+
+ps- display a snapshot of the running process
+
+kill- terminate a process by its id
+
+Is- information system, the command shows the files in the directory
+ top shows system processes
+
+free - memory usgage
+directory is a folder that organzines  files
+
+
+
+
+
+
+
+
